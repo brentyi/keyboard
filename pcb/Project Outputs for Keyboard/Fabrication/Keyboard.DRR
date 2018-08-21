@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Keyboard.PcbDoc   8/20/2018  5:44:27 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Component Side to Bottom Layer
+ASCII RoundHoles File : Keyboard.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             1496      PTH        0.00inch (0.00mm)
+T2      32mil (0.8mm)                                             Round             6         PTH        0.00inch (0.00mm)
+T3      39mil (0.991mm)                                           Round             180       PTH        0.00inch (0.00mm)
+T4      59mil (1.499mm)                                           Round             120       PTH        0.00inch (0.00mm)
+T5      67mil (1.702mm)                                           Round             60        PTH        0.00inch (0.00mm)
+T6      120mil (3.048mm)                                          Round             4         PTH        0.00inch (0.00mm)
+T7      140mil (3.556mm)                                          Round             4         PTH        0.00inch (0.00mm)
+T8      157mil (3.988mm)                                          Round             34        PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1904
+
+Total Processing Time (hh:mm:ss) : 00:00:00
