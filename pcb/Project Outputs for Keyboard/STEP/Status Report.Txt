@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 1:30:06 AM On 8/22/2018
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [Keyboard.PcbDoc]
+   Generated File[Keyboard.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:30:22 AM On 8/22/2018
