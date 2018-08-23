@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Keyboard.PcbDoc   8/23/2018  1:31:58 PM
+NCDrill File Report For: Keyboard.PcbDoc   8/23/2018  1:43:56 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Component Side to Bottom Layer
@@ -7,7 +7,7 @@ ASCII RoundHoles File : Keyboard.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      10mil (0.254mm)                                           Round             24        PTH        0.00inch (0.00mm)
+T1      10mil (0.254mm)                                           Round             584       PTH        0.00inch (0.00mm)
 T2      32mil (0.8mm)                                             Round             6         PTH        0.00inch (0.00mm)
 T3      39mil (0.991mm)                                           Round             180       PTH        0.00inch (0.00mm)
 T4      59mil (1.499mm)                                           Round             120       PTH        0.00inch (0.00mm)
@@ -16,6 +16,6 @@ T6      120mil (3.048mm)                                          Round         
 T7      140mil (3.556mm)                                          Round             4         PTH        0.00inch (0.00mm)
 T8      157mil (3.988mm)                                          Round             34        PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              432
+Totals                                                                              992
 
 Total Processing Time (hh:mm:ss) : 00:00:00
